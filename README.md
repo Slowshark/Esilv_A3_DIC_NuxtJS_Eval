@@ -28,9 +28,6 @@ internship-review-vue/
 ```sh
 npm install
 ```
-
-Si l'installation échoue (erreurs partielles, « prefix can't find module », etc.) → voir [Dépannage de l'installation](docs/troubleshooting-installation.md). En dernier recours : `npm run clean-install`.
-
 ## Commandes depuis la racine
 
 | Commande | Description |
