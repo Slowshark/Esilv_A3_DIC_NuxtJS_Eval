@@ -18,7 +18,7 @@ internship-review-vue/
 ├── apps/
 │   ├── vue/          # Application Vue 3 + Vite
 │   └── nuxt/         # Application Nuxt 4
-├── data/             # API mock partagée (db.json)
+├── docs/db.json      # API mock partagée (json-server)
 ├── docs/             # Cours, branches, contexte projet
 └── package.json      # Workspaces + scripts racine
 ```
