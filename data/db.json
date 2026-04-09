@@ -62,6 +62,21 @@
     }
   ],
   "favorites": [],
-  "searchHistory": []
+  "searchHistory": [
+    {
+      "query": "dev",
+      "createdAt": "2026-04-09T12:36:20.195Z",
+      "id": 1
+    },
+    {
+      "query": "dev",
+      "createdAt": "2026-04-09T12:37:10.279Z",
+      "id": 2
+    },
+    {
+      "query": "développer full stackk",
+      "createdAt": "2026-04-09T12:37:30.374Z",
+      "id": 3
+    }
+  ]
 }
-
