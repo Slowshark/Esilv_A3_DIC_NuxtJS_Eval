@@ -28,6 +28,9 @@ async function loadOffers() {
   errorMessage.value = ''
   try {
     offers.value = q ? await searchOffers(q) : await getOffers()
+    if (q) {
+      await addSearchHistory(q)
+    }
   } catch (e: unknown) {
     const err = e as { error?: string }
     isError.value = true
