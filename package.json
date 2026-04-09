@@ -14,7 +14,7 @@
     "build:vue": "npm run build -w apps/vue",
     "build:nuxt": "npm run build -w apps/nuxt",
     "test:vue": "npm run test:unit -w apps/vue",
-    "json-server": "json-server --watch data/db.json --port 3000"
+    "json-server": "json-server --watch docs/db.json --port 3000"
   },
   "devDependencies": {
     "json-server": "^0.17.4",

@@ -238,4 +238,16 @@
     }
   ],
   "favorites": [],
+  "searchHistory": [
+    {
+      "query": "dzdaf",
+      "createdAt": "2026-04-09T13:40:30.808Z",
+      "id": 1
+    },
+    {
+      "query": "dzdaf",
+      "createdAt": "2026-04-09T13:40:34.774Z",
+      "id": 2
+    }
+  ]
 }

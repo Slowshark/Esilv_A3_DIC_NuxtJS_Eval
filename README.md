@@ -1,5 +1,14 @@
 # internship-review-vue
 
+## Membres du groupe
+
+- Ung Yvanthivong
+- Ribere Jaël
+
+## Sujet choisi : A — Historique de recherche
+
+---
+
 Monorepo « recherche de stages » : Vue 3 (Vite) + Nuxt 4. Même API partagée (json-server).
 
 ## Structure
