@@ -253,6 +253,36 @@
       "query": "développer full stackk",
       "createdAt": "2026-04-09T12:37:30.374Z",
       "id": 3
+    },
+    {
+      "query": "def",
+      "createdAt": "2026-04-09T12:45:20.642Z",
+      "id": 4
+    },
+    {
+      "query": "data",
+      "createdAt": "2026-04-09T12:51:25.526Z",
+      "id": 5
+    },
+    {
+      "query": "data",
+      "createdAt": "2026-04-09T12:51:26.960Z",
+      "id": 6
+    },
+    {
+      "query": "info*",
+      "createdAt": "2026-04-09T12:51:34.142Z",
+      "id": 7
+    },
+    {
+      "query": "info",
+      "createdAt": "2026-04-09T12:51:34.952Z",
+      "id": 8
+    },
+    {
+      "query": "ux",
+      "createdAt": "2026-04-09T12:51:51.612Z",
+      "id": 9
     }
   ]
 }
